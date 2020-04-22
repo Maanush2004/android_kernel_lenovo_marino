@@ -30,6 +30,10 @@
 
 #include "../mt6799/mtk_udi.h"
 
+#elif defined(CONFIG_MACH_MT6757)
+
+#include "../mt6757/mtk_udi.h"
+
 #else
 
 #error NO corresponding project of mtk_udi.h header file can be found!!!

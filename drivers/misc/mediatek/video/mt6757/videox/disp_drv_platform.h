@@ -25,9 +25,9 @@
 #include "mt-plat/sync_write.h"
 #include "disp_assert_layer.h"
 
-#include "ddp_hal.h"
-#include "ddp_drv.h"
-#include "ddp_path.h"
+#include "../dispsys/ddp_hal.h"
+#include "../dispsys/ddp_drv.h"
+#include "../dispsys/ddp_path.h"
 
 /* #include <mach/mt6585_pwm.h> */
 /* #include <mach/boot.h> */

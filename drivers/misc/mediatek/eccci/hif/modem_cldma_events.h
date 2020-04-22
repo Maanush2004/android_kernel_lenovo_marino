@@ -262,5 +262,5 @@ TRACE_EVENT(ccci_skb_rx,
 /*
  * TRACE_INCLUDE_FILE is not needed if the filename and TRACE_SYSTEM are equal
  */
-#define TRACE_INCLUDE_FILE modem_cldma_events
+#define TRACE_INCLUDE_FILE ../../drivers/misc/mediatek/eccci/hif/modem_cldma_events
 #include <trace/define_trace.h>

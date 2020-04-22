@@ -15,7 +15,7 @@
 #define __M4U_V2_H__
 #include <linux/ioctl.h>
 #include <linux/fs.h>
-#include "m4u_port.h"
+#include "../mt6757/m4u_port.h"
 #include <linux/scatterlist.h>
 
 #if 1 /*ndef CONFIG_MTK_IOMMU*/

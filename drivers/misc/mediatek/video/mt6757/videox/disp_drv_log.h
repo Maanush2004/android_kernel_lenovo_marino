@@ -13,8 +13,8 @@
 
 #ifndef __DISP_DRV_LOG_H__
 #define __DISP_DRV_LOG_H__
-#include "display_recorder.h"
-#include "ddp_debug.h"
+#include "../dispsys/display_recorder.h"
+#include "../dispsys/ddp_debug.h"
 #include "mt-plat/aee.h"
 
 #if 0 /*set 1 to output log to mobilelog */

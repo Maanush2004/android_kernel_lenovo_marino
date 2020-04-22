@@ -16,8 +16,8 @@
 
 #include <mt-plat/sync_write.h>
 #include "ccci_config.h"
-#include "modem_sys.h"
-#include "hif/ccci_hif_cldma.h"
+#include "../modem_sys.h"
+#include "../hif/ccci_hif_cldma.h"
 
 /* - MD side, using infra config base */
 #define DBG_FLAG_DEBUG		(1<<0)

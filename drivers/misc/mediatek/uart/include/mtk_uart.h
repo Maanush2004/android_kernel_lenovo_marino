@@ -15,7 +15,7 @@
 #define __MTK_UART_H__
 
 #include <mt-plat/sync_write.h>
-#include "platform_uart.h"
+#include "../mt6757/platform_uart.h"
 
 /*---------------------------------------------------------------------------*/
 #if defined(ENABLE_VFIFO_DEBUG)
