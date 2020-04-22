@@ -24,7 +24,7 @@
 
 #include "mt-plat/sync_write.h"
 #include "mtk_thermal_typedefs.h"
-#include "mtk_gpufreq.h"
+#include "../../../../../base/power/mt6757/mtk_gpufreq.h"
 
 /*
 *Bank0 : CPU-LL    (TS_MCU1)

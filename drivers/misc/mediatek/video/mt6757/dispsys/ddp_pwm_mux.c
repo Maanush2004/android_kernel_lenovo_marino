@@ -15,11 +15,11 @@
 #include <linux/clk.h>
 #include <linux/delay.h>
 #include <linux/sched.h>
-#include <ddp_clkmgr.h>
+#include "ddp_clkmgr.h"
 #include <ddp_pwm_mux.h>
 #include <linux/of.h>
 #include <linux/of_address.h>
-#include <ddp_reg.h>
+#include "ddp_reg.h"
 
 static int pwm_log_en;
 #define PWM_MSG(fmt, arg...) \

@@ -25,7 +25,7 @@
 #include <linux/kobject.h>
 #include <linux/sysfs.h>
 #include <mt-plat/mtk_ccci_common.h>
-#include "ccci_config.h"
+#include "../mt6757/ccci_config.h"
 #include "ccci_debug.h"
 #include "ccci_bm.h"
 

@@ -17,7 +17,7 @@
 #include <linux/skbuff.h>
 #include "ccci_modem.h"
 #include "ccci_core.h"
-#include "ccif_hif_platform.h"
+#include "../mt6757/ccif_hif_platform.h"
 
 typedef enum{
 	CLDMA_HIF_ID,

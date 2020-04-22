@@ -22,7 +22,7 @@
 #include <linux/skbuff.h>
 #include <mt-plat/mtk_ccci_common.h>
 
-#include "ccci_config.h"
+#include "../mt6757/ccci_config.h"
 #include "ccci_bm.h"
 #include "ccci_hif_internal.h"
 /*
